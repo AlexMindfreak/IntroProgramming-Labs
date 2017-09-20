@@ -1,4 +1,4 @@
-x = 186000 #Miles per second
-z = 34000000 #distance from Mars to Earth
+speedOfLight = 186000 #Miles per second
+distance = 34000000 #distance from Mars to Earth
 
-print (z/x)
+print ("It takes", distance/speedOfLight, "seconds for the Mars rover to send a photo Earth.")
